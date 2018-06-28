@@ -1,2 +1,2 @@
 # VRSsite
-In Progress
+Site created for consulting company.  Project on hold indefinitely.
